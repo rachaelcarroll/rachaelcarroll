@@ -19,7 +19,6 @@ My name is Rachael Carroll and I am a front-end developer studying at [Turing Sc
         <td>React</td>
         <td>Router</td> 
         <td>NPM</td>
-        <td>React</td>
         <td>Cypress</td>
         <td>Mocha/Chai</td>
         <td>Heroku</td>
@@ -44,7 +43,7 @@ My name is Rachael Carroll and I am a front-end developer studying at [Turing Sc
   <a href="https://github.com/rachaelcarroll/overlook-hotel"><img width="300" align='right' src="https://github.com/rachaelcarroll/overlook-hotel/blob/main/src/images/filter.gif"></a>
 </p>
 
-My final project in Mod2 was to create a hotel booking website.  This was done with Vanilla Javascript and completed in 6 days. I enjoyed the challenge of using an API and making the site responsive. View the full project [here](https://github.com/rachaelcarroll/overlook-hotel)  
+My final project in Mod2 was to create a hotel booking website.  This was done with Vanilla Javascript and completed in 6 days. I enjoyed the challenge of using an API and making the site responsive. View the full project [here](https://github.com/rachaelcarroll/overlook-hotel).  
 
 ## Stats
 
