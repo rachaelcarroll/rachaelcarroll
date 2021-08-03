@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rachael Carroll and I am a front-end developer studying at [Turing School of Software and Design](https://turing.edu/).
+I'm Rachael Carroll ... a front-end developer studying at [Turing School of Software and Design](https://turing.edu/).
 
 - 🗣 Pronouns: she/her
 - 💬 [LinkedIn](https://www.linkedin.com/in/rachaelcarroll/)
