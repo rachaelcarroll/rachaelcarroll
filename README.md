@@ -50,9 +50,7 @@ My final project in Mod2 was to create a hotel booking website.  This was done w
 <a href="https://github.com/rachaelcarroll">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachaelcarroll&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/rachaelcarroll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rachaelcarroll&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rachael's GitHub Stats" />
-</a>  
+
 <br>
 <br>
 <br>
