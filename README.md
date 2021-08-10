@@ -9,34 +9,6 @@ I'm Rachael Carroll ... a front-end developer studying at [Turing School of Soft
 - 🧑‍💻 Front-End Engineering Certification (anticipated completion: **October 2021**)
 - ☕️ Fun fact: I love to travel, but am a true mid-westerner at heart 💕 ask me about my Peloton username 
 
- ### Technologies
- <table>
-    <tr>
-        <td>JavaScript</td>
-        <td>HTML5</td>
-        <td>CSS3</td>
-        <td>Sass</td>
-        <td>React</td>
-        <td>Router</td> 
-        <td>NPM</td>
-        <td>Cypress</td>
-        <td>Mocha/Chai</td>
-        <td>Heroku</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/jslogo.png" alt="javascript" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/html5.png" alt="HTML" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/css3.png" alt="CSS" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/sass.png" alt="Sass" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/react.png" alt="react" width="50" height="auto" /></td>
-        <td><img src="https://user-images.githubusercontent.com/73092355/119361186-9d808b80-bc68-11eb-97ee-05bde2700716.png" alt="router" width="50" height="auto" /></td> 
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/npm.png" alt="NPM" width="50" height="auto" /></td>
-        <td><img src="https://user-images.githubusercontent.com/73092355/119361263-b5f0a600-bc68-11eb-9f41-8e10aa013e7a.png" alt="Cypress" width="50" height="auto" /></td>
-        <td><img src="https://github.com/tkswann2/tech-logos/blob/master/mocha.png" alt="Mocha/Chai" width="50" height="auto" /></td>
-        <td><img src="https://user-images.githubusercontent.com/73092355/119402483-3bd91500-bc9a-11eb-9465-edf38b6a68d3.png" alt="Heroku" width="50" height="auto"/> </td>
-    </tr>
-</table>
-
 ### Latest Project: 
 
 #### the<i>scene</i>
@@ -46,6 +18,21 @@ I'm Rachael Carroll ... a front-end developer studying at [Turing School of Soft
 
 I recently built a niche music conversation starter React app using a third party API, Router, and thoroughly tested with Cypress.  View the full project [here](https://github.com/rachaelcarroll/the-scene) and the deployed application [here](https://the-scene.vercel.app/) 
 
-<br>
-<br>
+### Stats & Tech Stack:
+<div>
+ <img align='left' src="https://github-readme-stats.vercel.app/api?username=rachaelcarroll&hide=stars&show_icons=true&theme=cobalt">
+ <div align="right">  
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
+  <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff&style=flat-square" alt="Sass Badge"> 
+  <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat-square" alt="Express Badge">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square" alt="PostgreSQL Badge"> 
+  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat-square" alt="Heroku Badge"> 
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=fff&style=flat-square" alt="Cypress Badge">  
+  <img src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=flat-square" alt="Chai Badge">
+  <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=flat-square" alt="Mocha Badge"> 
+ </div>  
+</div>
 <br>
