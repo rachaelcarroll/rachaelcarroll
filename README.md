@@ -4,7 +4,7 @@ I'm Rachael Carroll ... a front-end developer studying at [Turing School of Soft
 
 - 🗣 Pronouns: she/her
 - 💬 [LinkedIn](https://www.linkedin.com/in/rachaelcarroll/)
-- 🧑‍🏫 I’m currently learning ... React & Cypress
+- 🧑‍🏫 I’m currently learning ... TypeScript 
 - 📈 Bachelor of Business from Old Dominion University
 - 🧑‍💻 Front-End Engineering Certification (anticipated completion: **October 2021**)
 - ☕️ Fun fact: I *love* vintage & design (especially houses!)
