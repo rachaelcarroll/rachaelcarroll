@@ -18,6 +18,8 @@ I'm Rachael Carroll ... a front-end developer studying at [Turing School of Soft
 
 I recently built a niche music conversation starter React app using a third party API, Router, and thoroughly tested with Cypress.  View the full project [here](https://github.com/rachaelcarroll/the-scene) and the deployed application [here](https://the-scene.vercel.app/) 
 
+<br>
+
 ### Stats & Tech Stack:
 <div>
  <img align='left' src="https://github-readme-stats.vercel.app/api?username=rachaelcarroll&hide=stars&show_icons=true&theme=cobalt">
