@@ -37,19 +37,14 @@ I'm Rachael Carroll ... a front-end developer studying at [Turing School of Soft
     </tr>
 </table>
 
-### My Recent Projects 🕸
+### Latest Project: 
 
+#### the<i>scene</i>
 <p>
-  <a href="https://github.com/rachaelcarroll/overlook-hotel"><img width="300" align='right' src="https://github.com/rachaelcarroll/overlook-hotel/blob/main/src/images/filter.gif"></a>
+  <a href="https://github.com/rachaelcarroll/the-scene"><img width="300" align='right' src="https://github.com/rachaelcarroll/the-scene/blob/main/src/images/shufflin.gif"></a>
 </p>
 
-My final project in Mod2 was to create a hotel booking website.  This was done with Vanilla Javascript and completed in 6 days. I enjoyed the challenge of using an API and making the site responsive. View the full project [here](https://github.com/rachaelcarroll/overlook-hotel).  
-
-## Stats
-
-<a href="https://github.com/rachaelcarroll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachaelcarroll&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+I recently built a niche music conversation starter React app using a third party API, Router, and thoroughly tested with Cypress.  View the full project [here](https://github.com/rachaelcarroll/the-scene).  
 
 <br>
 <br>
