@@ -7,7 +7,7 @@ I'm Rachael Carroll ... a front-end developer studying at [Turing School of Soft
 - 🧑‍🏫 I’m currently learning ... TypeScript 
 - 📈 Bachelor of Business from Old Dominion University
 - 🧑‍💻 Front-End Engineering Certification (anticipated completion: **October 2021**)
-- ☕️ Fun fact: I *love* vintage & design (especially houses!)
+- ☕️ Fun fact: I love to travel, but am a true mid-westerner at heart 💕 ask me about my Peloton name 
 
  ### Technologies
  <table>
