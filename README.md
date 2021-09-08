@@ -9,7 +9,7 @@ I'm Rachael Carroll ... a front-end developer studying at [Turing School of Soft
 - 🧑‍💻 Front-End Engineering Certification (anticipated completion: **October 2021**)
 - ☕️ Fun fact: I love to travel, but am a true mid-westerner at heart 💕 ask me about my Peloton username 
 
-### Latest Project: 
+### Featured Project: 
 
 #### the<i>scene</i>
 <p>
