@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rachael Carroll ... a front-end developer studying at [Turing School of Software and Design](https://turing.edu/).
+I'm a front-end developer studying at [Turing School of Software and Design](https://turing.edu/).
 
 - 🗣 Pronouns: she/her
 - 💬 [LinkedIn](https://www.linkedin.com/in/rachaelcarroll/)
@@ -16,7 +16,7 @@ I'm Rachael Carroll ... a front-end developer studying at [Turing School of Soft
   <a href="https://github.com/rachaelcarroll/the-scene"><img width="300" align='right' src="https://github.com/rachaelcarroll/the-scene/blob/main/src/images/shufflin.gif"></a>
 </p>
 
-I recently built a niche music conversation starter React app using a third party API, Router, and thoroughly tested with Cypress.  View the full project [here](https://github.com/rachaelcarroll/the-scene) and the deployed application [here](https://the-scene.vercel.app/) 
+I recently built a niche music conversation starter app using React, a third party API, Router, and thoroughly tested with Cypress.  View the full project [here](https://github.com/rachaelcarroll/the-scene) and the deployed site [here](https://the-scene.vercel.app/) 
 
 <br>
 
