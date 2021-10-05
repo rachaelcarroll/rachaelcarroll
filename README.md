@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a front-end developer studying at [Turing School of Software and Design](https://turing.edu/).
+I'm a front-end developer.  I'm also a designer, dreamer, doer, empath, Enneagram 2 & INFJ Sagittarius 🌝 ✨ who is passionate about creating robust, efficient, and well tested applications that are accessible to all. 
 
 - 🗣 Pronouns: she/her
 - 💬 [LinkedIn](https://www.linkedin.com/in/rachaelcarroll/)
 - 🧑‍🏫 I’m currently learning ... TypeScript 
 - 📈 Bachelor of Business from Old Dominion University
-- 🧑‍💻 Front-End Engineering Certification (anticipated completion: **October 2021**)
+- 🧑‍💻 Front-End Engineering Certification from [Turing School of Software and Design](https://turing.edu/)
 - ☕️ Fun fact: I love to travel, but am a true mid-westerner at heart 💕 ask me about my Peloton username 
 
 ### Featured Project: 
