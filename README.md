@@ -19,7 +19,7 @@ I'm a front-end developer who is passionate about creating thoughtful, efficient
 <p>
   <a href="https://github.com/rachaelcarroll/the-scene"><img width="300" align='right' src="https://github.com/rachaelcarroll/the-scene/blob/main/src/images/shufflin.gif"></a>
 </p>
-I recently built a niche music conversation starter app using React, a third party API, Router, and thoroughly tested with Cypress.  View the full project [here](https://github.com/rachaelcarroll/the-scene) and the deployed site [here](https://the-scene.vercel.app/) 
+I recently built a niche music conversation starter app using React, Router, a third party API, and Cypress.  View the full project [here](https://github.com/rachaelcarroll/the-scene) and the [deployed site](https://the-scene.vercel.app/) 
 
 <br>
 
