@@ -1,13 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Rachael Carroll (she/her) 👋
 
-I'm a front-end developer.  I'm also a designer, dreamer, doer, empath, Enneagram 2 & INFJ Sagittarius 🌝 ✨ who is passionate about creating robust, efficient, and well tested applications that are accessible to all. 
-
-- 🗣 Pronouns: she/her
-- 💬 [LinkedIn](https://www.linkedin.com/in/rachaelcarroll/)
-- 🧑‍🏫 I’m currently learning ... TypeScript 
+I'm a front-end developer who is passionate about creating thoughtful, efficient, and well tested applications that are accessible to all. I'm also a designer, dreamer, doer, empath, Enneagram 2 & INFJ Sagittarius 🌝 ✨ 
+ 
 - 📈 Bachelor of Business from Old Dominion University
 - 🧑‍💻 Front-End Engineering Certification from [Turing School of Software and Design](https://turing.edu/)
-- ☕️ Fun fact: I love to travel, but am a true mid-westerner at heart 💕 ask me about my Peloton username 
+- ☕️ Fun fact: I love to travel, but am a true mid-westerner at heart... ask me about my Peloton username 
+
+### Connect With Me
+<section align="left">
+  <a href="mailto:rachaelcarroll.m@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+  <br>
+  <a href="https://www.linkedin.com/in/rachaelcarroll"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a> 
+</section>
 
 ### Featured Project: 
 
@@ -15,13 +19,13 @@ I'm a front-end developer.  I'm also a designer, dreamer, doer, empath, Enneagra
 <p>
   <a href="https://github.com/rachaelcarroll/the-scene"><img width="300" align='right' src="https://github.com/rachaelcarroll/the-scene/blob/main/src/images/shufflin.gif"></a>
 </p>
-
 I recently built a niche music conversation starter app using React, a third party API, Router, and thoroughly tested with Cypress.  View the full project [here](https://github.com/rachaelcarroll/the-scene) and the deployed site [here](https://the-scene.vercel.app/) 
 
 <br>
 
 ### Stats & Tech Stack:
 <div>
+  
  <img align='left' src="https://github-readme-stats.vercel.app/api?username=rachaelcarroll&hide=stars&show_icons=true&theme=cobalt">
  <div align="right">  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
