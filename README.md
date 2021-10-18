@@ -13,21 +13,11 @@ I'm a front-end developer who is passionate about creating thoughtful, efficient
   <a href="https://www.linkedin.com/in/rachaelcarroll"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a> 
 </section>
 
-### Featured Project: 
-
-#### the<i>scene</i>
-<p>
-  <a href="https://github.com/rachaelcarroll/the-scene"><img width="300" align='right' src="https://github.com/rachaelcarroll/the-scene/blob/main/src/images/shufflin.gif"></a>
-</p>
-I recently built a niche music conversation starter app using React, Router, a third party API, and Cypress.  View the full project [here](https://github.com/rachaelcarroll/the-scene) and the [deployed site](https://the-scene.vercel.app/) 
-
-<br>
-
 ### Stats & Tech Stack:
-<div>
-  
- <img align='left' src="https://github-readme-stats.vercel.app/api?username=rachaelcarroll&hide=stars&show_icons=true&theme=cobalt">
- <div align="right">  
+ <img src="https://github-readme-stats.vercel.app/api?username=rachaelcarroll&hide=stars&show_icons=true&theme=cobalt">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachaelcarroll&layout=compact&theme=tokyonight">
+<br>
+ <div align="center">  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
@@ -40,5 +30,4 @@ I recently built a niche music conversation starter app using React, Router, a t
   <img src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=flat-square" alt="Chai Badge">
   <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=flat-square" alt="Mocha Badge"> 
  </div>  
-</div>
 <br>
