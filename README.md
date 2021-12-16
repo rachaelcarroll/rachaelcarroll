@@ -2,8 +2,8 @@
 
 I'm a front-end developer who is passionate about creating thoughtful, efficient, and well tested applications that are accessible to all. I'm also a designer, dreamer, doer, empath, Enneagram 2 & INFJ Sagittarius 🌝 ✨ 
  
-- 📈 Bachelor of Business from Old Dominion University
 - 🧑‍💻 Front-End Engineering Certification from [Turing School of Software and Design](https://turing.edu/)
+- 📈 Bachelor of Business from Old Dominion University
 - ☕️ Fun fact: I love to travel, but am a true mid-westerner at heart... ask me about my Peloton username 
 
 ### Connect With Me
