@@ -1,6 +1,6 @@
 ### Hi there, I'm Rachael Carroll (she/her) 👋
 
-I'm a front-end developer who is passionate about creating thoughtful, efficient, and reliable applications that are accessible to all. I'm also a designer, dreamer, doer, empath, Enneagram 2 & INFJ Sagittarius 🌝 ✨ 
+I'm a software developer who is passionate about creating thoughtful, efficient, and reliable applications that are accessible to all. I'm also a designer, dreamer, doer, empath, Enneagram 2 & INFJ Sagittarius 🌝 ✨ 
  
 - 🧑‍💻 Front-End Engineering Certification from [Turing School of Software and Design](https://turing.edu/)
 - 📈 Bachelor of Business from Old Dominion University
