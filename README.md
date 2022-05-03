@@ -3,7 +3,9 @@
 I'm a software developer who is passionate about creating thoughtful, efficient, and reliable applications that are accessible to all. I'm also a designer, dreamer, doer, empath, Enneagram 2 & INFJ Sagittarius 🌝 ✨ 
  
 🧑‍💻 Front-End Engineering Certification from [Turing School of Software and Design](https://turing.edu/)
+<br>
 📈 Bachelor of Business from Old Dominion University
+<br>
 ☕️ Fun fact: I love to travel, but am a true mid-westerner at heart... ask me about my Peloton username 
  <div align="center">  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
