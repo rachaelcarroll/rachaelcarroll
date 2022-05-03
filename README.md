@@ -13,9 +13,7 @@ I'm a software developer who is passionate about creating thoughtful, efficient,
   <a href="https://www.linkedin.com/in/rachaelcarroll"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a> 
 </section>
 
-### Stats & Tech Stack:
- <img src="https://github-readme-stats.vercel.app/api?username=rachaelcarroll&hide=stars&show_icons=true&theme=cobalt">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachaelcarroll&layout=compact&theme=tokyonight">
+### Tech Stack:
 <br>
  <div align="center">  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
@@ -31,6 +29,3 @@ I'm a software developer who is passionate about creating thoughtful, efficient,
   <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=flat-square" alt="Mocha Badge"> 
  </div>  
 <br>
-
-Thank you for visiting! <br />![](https://visitor-badge.glitch.me/badge?page_id=rachaelcarroll.rachaelcarroll&style=flat-square&color=0088cc)
-
