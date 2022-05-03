@@ -12,8 +12,6 @@ I'm a software developer who is passionate about creating thoughtful, efficient,
   <br>
   <a href="https://www.linkedin.com/in/rachaelcarroll"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a> 
 </section>
-
-### Tech Stack:
 <br>
  <div align="center">  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
