@@ -2,17 +2,9 @@
 
 I'm a software developer who is passionate about creating thoughtful, efficient, and reliable applications that are accessible to all. I'm also a designer, dreamer, doer, empath, Enneagram 2 & INFJ Sagittarius 🌝 ✨ 
  
-- 🧑‍💻 Front-End Engineering Certification from [Turing School of Software and Design](https://turing.edu/)
-- 📈 Bachelor of Business from Old Dominion University
-- ☕️ Fun fact: I love to travel, but am a true mid-westerner at heart... ask me about my Peloton username 
-
-### Connect With Me
-<section align="left">
-  <a href="mailto:rachaelcarroll.m@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
-  <br>
-  <a href="https://www.linkedin.com/in/rachaelcarroll"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a> 
-</section>
-<br>
+🧑‍💻 Front-End Engineering Certification from [Turing School of Software and Design](https://turing.edu/)
+📈 Bachelor of Business from Old Dominion University
+☕️ Fun fact: I love to travel, but am a true mid-westerner at heart... ask me about my Peloton username 
  <div align="center">  
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square" alt="JavaScript Badge">
@@ -26,4 +18,10 @@ I'm a software developer who is passionate about creating thoughtful, efficient,
   <img src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=flat-square" alt="Chai Badge">
   <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=flat-square" alt="Mocha Badge"> 
  </div>  
-<br>
+ 
+### Connect With Me
+<section align="left">
+  <a href="mailto:rachaelcarroll.m@gmail.com"><img alt="email" src="https://img.shields.io/badge/-Email-f2c236.svg?style=for-the-badge&colorB=0078D4" /></a>
+  <br>
+  <a href="https://www.linkedin.com/in/rachaelcarroll"><img alt="linkedin"  src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=1C5D99"/></a> 
+</section>
