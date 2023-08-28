@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rachael Carroll (she/her)
 
-I'm a full stack software developer who is passionate about creating thoughtful, efficient, and reliable applications that are accessible to all.
+I'm a full stack software developer who is passionate about creating beautiful and scalable applications that are accessible to all.
 
 🧑‍💻 Frontend Engineering Certification from [Turing School of Software and Design](https://turing.edu/)
 <br>
