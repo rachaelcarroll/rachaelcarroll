@@ -1,4 +1,4 @@
-### Hi there, I'm Rachael Carroll (she/her)
+### Hi there 👋 I'm Rachael Carroll (she/her)
 
 I'm a full stack software developer who is passionate about creating thoughtful, efficient, and reliable applications that are accessible to all.
 
